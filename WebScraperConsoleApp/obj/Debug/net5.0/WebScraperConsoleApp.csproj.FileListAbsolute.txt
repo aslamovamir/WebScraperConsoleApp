@@ -1,0 +1,17 @@
+/Users/amiraslamov/Desktop/WebScraperConsoleApp/WebScraperConsoleApp/bin/Debug/net5.0/WebScraperConsoleApp.deps.json
+/Users/amiraslamov/Desktop/WebScraperConsoleApp/WebScraperConsoleApp/bin/Debug/net5.0/WebScraperConsoleApp.runtimeconfig.json
+/Users/amiraslamov/Desktop/WebScraperConsoleApp/WebScraperConsoleApp/bin/Debug/net5.0/WebScraperConsoleApp.runtimeconfig.dev.json
+/Users/amiraslamov/Desktop/WebScraperConsoleApp/WebScraperConsoleApp/bin/Debug/net5.0/WebScraperConsoleApp.dll
+/Users/amiraslamov/Desktop/WebScraperConsoleApp/WebScraperConsoleApp/bin/Debug/net5.0/ref/WebScraperConsoleApp.dll
+/Users/amiraslamov/Desktop/WebScraperConsoleApp/WebScraperConsoleApp/bin/Debug/net5.0/WebScraperConsoleApp.pdb
+/Users/amiraslamov/Desktop/WebScraperConsoleApp/WebScraperConsoleApp/obj/Debug/net5.0/WebScraperConsoleApp.csproj.AssemblyReference.cache
+/Users/amiraslamov/Desktop/WebScraperConsoleApp/WebScraperConsoleApp/obj/Debug/net5.0/WebScraperConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amiraslamov/Desktop/WebScraperConsoleApp/WebScraperConsoleApp/obj/Debug/net5.0/WebScraperConsoleApp.AssemblyInfoInputs.cache
+/Users/amiraslamov/Desktop/WebScraperConsoleApp/WebScraperConsoleApp/obj/Debug/net5.0/WebScraperConsoleApp.AssemblyInfo.cs
+/Users/amiraslamov/Desktop/WebScraperConsoleApp/WebScraperConsoleApp/obj/Debug/net5.0/WebScraperConsoleApp.csproj.CoreCompileInputs.cache
+/Users/amiraslamov/Desktop/WebScraperConsoleApp/WebScraperConsoleApp/obj/Debug/net5.0/WebScraperConsoleApp.dll
+/Users/amiraslamov/Desktop/WebScraperConsoleApp/WebScraperConsoleApp/obj/Debug/net5.0/ref/WebScraperConsoleApp.dll
+/Users/amiraslamov/Desktop/WebScraperConsoleApp/WebScraperConsoleApp/obj/Debug/net5.0/WebScraperConsoleApp.pdb
+/Users/amiraslamov/Desktop/WebScraperConsoleApp/WebScraperConsoleApp/obj/Debug/net5.0/WebScraperConsoleApp.genruntimeconfig.cache
+/Users/amiraslamov/Desktop/WebScraperConsoleApp/WebScraperConsoleApp/bin/Debug/net5.0/HtmlAgilityPack.dll
+/Users/amiraslamov/Desktop/WebScraperConsoleApp/WebScraperConsoleApp/obj/Debug/net5.0/WebScraperConsoleApp.csproj.CopyComplete

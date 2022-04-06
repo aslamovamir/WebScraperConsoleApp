@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZAHnyVRtbMNKK1ccw2b1PXDuajUkwpH3vQzboZWpsaz0XGg9QAh/vo9+YIfyUBUR2yvdcKYa1pbnSJ87iusObg==",
+  "success": true,
+  "projectFilePath": "/Users/amiraslamov/Desktop/WebScraperConsoleApp/WebScraperConsoleApp/WebScraperConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/amiraslamov/.nuget/packages/htmlagilitypack/1.11.42/htmlagilitypack.1.11.42.nupkg.sha512"
+  ],
+  "logs": []
+}
